@@ -1,7 +1,7 @@
-# project_base:
+# project_base
 Svemirski brod istrazuje svemir.
 
-# Uputstvo:
+# Uputstvo
 1. `git clone 
 2. CLion -> Open -> path/to/my/project
 3. Main se nalazi u src/main.cpp
@@ -12,14 +12,13 @@ Svemirski brod istrazuje svemir.
 8. `D` rotiranje desno
 9. `X` ukljucivanje SSAO
 10. `M` ukljucuje i iskljucuje kursor
-
  
-# Projekat sadrzi:
+# Projekat sadrzi
 Oblast A: Cubemaps
 Oblast B: SSAO
 
-# Demonstracija projekta:
+# Demonstracija projekta
 https://youtu.be/8d_smKMKx_g
 
-Autor:
+# Autor
 Vojkan Panic 138/2019
