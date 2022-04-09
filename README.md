@@ -1,5 +1,5 @@
 # project_base
-Prazan projekat sa pratećim bibliotekama koje koristimo na času. 
+Svemirski brod istrazuje svemir.
 
 # Uputstvo
 1. `git clone https://github.com/matf-racunarska-grafika/project_base.git`
@@ -9,3 +9,26 @@ Prazan projekat sa pratećim bibliotekama koje koristimo na času.
 5. Zaglavlja (h i hpp) fajlovi idu u include
 6. Šejderi idu u folder shaders. `Vertex shader` ima ekstenziju `.vs`, `fragment shader` ima ekstenziju `.fs`
 7. ALT+SHIFT+F10 -> project_base -> run
+
+Uputstvo:
+1. `git clone 
+2. CLion -> Open -> path/to/my/project
+3. Main se nalazi u src/main.cpp
+4. `ALT`+`SHIFT`+`F10` -> project_base -> run
+5. `W` pomeranje napred
+6. `A` rotiranje levo
+7. `S` pomeranje nazad
+8. `D` rotiranje desno
+9. `X` ukljucivanje SSAO
+10. `M` ukljucuje i iskljucuje kursor
+
+ 
+Projekat sadrzi:
+
+Oblast A: Cubemaps
+
+Oblast B: SSAO
+
+
+Autor:
+Vojkan Panic 138/2019
